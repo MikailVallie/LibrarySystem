@@ -1,2 +1,3 @@
 # LibrarySystem
-GroupLibrarySystemADP3
+
+Learning to make a Java Library System
